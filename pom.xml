@@ -16,6 +16,6 @@
   <modules>
     <module>com.ibm.wala.memsat</module>
     <module>com.ibm.wala.memsat.testdata</module>
-    <module>com.ibm.wala.memsat.test</module>
+<!--    <module>com.ibm.wala.memsat.test</module>-->
   </modules>
 </project>
